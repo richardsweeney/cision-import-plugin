@@ -1,0 +1,10 @@
+{
+    "name": "richardsweeney/cision-import",
+    "description": "Wordpress plugin for to import a Cision feed",
+    "type": "wordpress-plugin",
+    "license": "Proprietary",
+    "version": "0.1",
+    "require": {
+        "composer/installers": "~1.0.0"
+    }
+}
